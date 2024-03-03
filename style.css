@@ -1,0 +1,36 @@
+
+.outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    width: 50%;
+    height: 100%;
+}
+
+.damn{
+    padding: 15px 10px;
+    
+}
+
+#qsn{
+    font-size: 30px;
+    padding: 20px 10px;
+    background-color: pink;
+}
+
+.right{
+    background-color: green;
+    color: white;
+}
+
+.wrong{
+    background-color: red;
+    color: white;
+}
