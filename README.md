@@ -1,1 +1,1 @@
-https://yoboii-0001.github.io/Quiz/
+https://builtbyaryan.github.io/Quiz/
